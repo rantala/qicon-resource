@@ -1,0 +1,2 @@
+Use a QIcon with resource specified with the .png suffix, and without it.
+This is to demonstrate that with Qt 4.7, the suffix _must_ be specified.
